@@ -115,6 +115,8 @@ Nothing is more threatening to the engineer than the suggestion that somebody ha
 
 At that point it is a good idea for the normal person to not stand between the engineer and the problem. The engineer will set upon the problem like a starved Chihuahua on a pork chop.
 
+---
+
 ### Top 20 of Engineering Terminology
 1. EXTENSIVE REPORT IS BEING PREPARED ON A FRESH APPROACH TO THE PROBLEM. We just hired three kids fresh out of college.
 2. CLOSE PROJECT COORDINATION. We know who to blame.
@@ -136,6 +138,7 @@ At that point it is a good idea for the normal person to not stand between the e
 18. ENERGY SAVING. Achieved when the power switch is off.
 19. LOW MAINTENANCE. Impossible to fix if broken.
 
+---
 Why Engineers Don't Write Recipe Books Chocolate Chip Cookies:
 Ingredients:
 
@@ -152,6 +155,7 @@ Ingredients:
 
 To a 2-L jacketed round reactor vessel (reactor #1) with an overall heat transfer coefficient of about 100 Btu/F-ft2-hr, add ingredients one, two and three with constant agitation. In a second 2-L reactor vessel with a radial flow impeller operating at 100 rpm, add ingredients four, five, six, and seven until the mixture is homogenous. To reactor #2, add ingredient eight, followed by three equal volumes of the homogenous mixture in reactor #1. Additionally, add ingredient nine and ten slowly, with constant agitation. Care must be taken at this point in the reaction to control any temperature rise that may be the result of an exothermic reaction. Using a screw extrude attached to a #4 nodulizer, place the mixture piece-meal on a 316SS sheet (300 x 600 mm). Heat in a 460K oven for a period of time that is in agreement with Frank & Johnston's first order rate expression (see JACOS, 21, 55), or until golden brown. Once the reaction is complete, place the sheet on a 25C heat-transfer table, allowing the product to come to equilibrium.
 
+---
 
 ### How can you tell if your child is going to be an engineer?
 
@@ -172,10 +176,10 @@ Watch for these tell-tale warning signs:
 - Forget Dr. Seuss and Beatrix Potter. She wants you to read her Carl Sagan. 
 - When he is asked to play the Star of Bethlehem in the Christmas pageant, he asks, "Am I a white dwarf or red giant?"
 
-
+---
 New Lyrics to Beatles Song - "Yesterday"
 
-_Yesterday,
+Yesterday,
 
 All those backups seemed a waste of pay.
 
@@ -205,8 +209,9 @@ the need for back-ups seemed so far away.
 
 I knew my data was all here to stay,
 
-Now I believe in yesterday._
+Now I believe in yesterday.
 
+----
 
 ### College Essay
 
@@ -229,7 +234,7 @@ I balance, I weave, I dodge, I frolic, and my bills are all paid. On weekends, t
 
 But I have not yet gone to college.
 
-
+----
 ### Five Surgeons
 
 Five surgeons were taking a coffee break and were discussing their work. The first said, "I think accountants are the easiest to operate on. You open them up and everything inside is numbered." The second said, "I think librarians are the easiest to operate on. You open them up and everything inside is in alphabetical order." The Third said, "I like to operate on electricians. You open them up and everything inside is color-coded." The fourth one said, "I like to operate on lawyers. They're heartless, spineless, gutless, and their heads and their butts are interchangeable." Fifth surgeon said, "I like Engineers...they always understand when you have a few parts left over at the end..."

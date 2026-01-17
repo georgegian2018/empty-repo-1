@@ -132,42 +132,45 @@ At that point it is a good idea for the normal person to not stand between the e
 14. ALL NEW. Parts not interchangeable with the previous design.
 15. RUGGED. Too damn heavy to lift!
 16. LIGHTWEIGHT. Lighter than RUGGED.
-17.YEARS OF DEVELOPMENT. One finally worked.
+17. YEARS OF DEVELOPMENT. One finally worked.
 18. ENERGY SAVING. Achieved when the power switch is off.
 19. LOW MAINTENANCE. Impossible to fix if broken.
 
 Why Engineers Don't Write Recipe Books Chocolate Chip Cookies:
 Ingredients:
-532.35 cm3 gluten 
-4.9 cm3 NaHCO3 
-4.9 cm3 refined halite 
-236.6 cm3 partially hydrogenated tallow triglyceride 
-177.45 cm3 crystalline C12H22O11 
-177.45 cm3 unrefined C12H22O11 
-4.9 cm3 methyl ether of protocatechuic aldehyde 
-Two calcium carbonate-encapsulated avian albumen-coated protein 
-473.2 cm3 theobroma cacao 
-236.6 cm3 de-encapsulated legume meats (sieve size #10)
+
+1. 532.35 cm3 gluten 
+2. 4.9 cm3 NaHCO3 
+3. 4.9 cm3 refined halite 
+4. 236.6 cm3 partially hydrogenated tallow triglyceride 
+5. 177.45 cm3 crystalline C12H22O11 
+6. 177.45 cm3 unrefined C12H22O11 
+7. 4.9 cm3 methyl ether of protocatechuic aldehyde 
+8. Two calcium carbonate-encapsulated avian albumen-coated protein 
+9. 473.2 cm3 theobroma cacao 
+10. 236.6 cm3 de-encapsulated legume meats (sieve size #10)
 
 To a 2-L jacketed round reactor vessel (reactor #1) with an overall heat transfer coefficient of about 100 Btu/F-ft2-hr, add ingredients one, two and three with constant agitation. In a second 2-L reactor vessel with a radial flow impeller operating at 100 rpm, add ingredients four, five, six, and seven until the mixture is homogenous. To reactor #2, add ingredient eight, followed by three equal volumes of the homogenous mixture in reactor #1. Additionally, add ingredient nine and ten slowly, with constant agitation. Care must be taken at this point in the reaction to control any temperature rise that may be the result of an exothermic reaction. Using a screw extrude attached to a #4 nodulizer, place the mixture piece-meal on a 316SS sheet (300 x 600 mm). Heat in a 460K oven for a period of time that is in agreement with Frank & Johnston's first order rate expression (see JACOS, 21, 55), or until golden brown. Once the reaction is complete, place the sheet on a 25C heat-transfer table, allowing the product to come to equilibrium.
 
-How can you tell if your child is going to be an engineer?
+
+### How can you tell if your child is going to be an engineer?
+
 Watch for these tell-tale warning signs:
-You buy your child an educational software program, and she asks which authoring tool it was written in. 
-Your child has torn apart his teddy bear and is studying the chemical composition of the filling. 
-She can program you VCR, while you haven't been able to get it to stop blinking "12:00." 
-He has removed the voice box from his Talking Elmo doll and reprogrammed it to recite the periodic table. 
-She has replaced the arms and legs of her Barbie Doll with bionic limbs. 
-He is picked last on every sports team. 
-You take her to see Disney's "Hunchback of Notre Dame," and all she's interested in is the computer animation. 
-He has Bill Gates posters in his room. 
-She believes that if she's really good, Santa will give her a client/server network for Christmas. 
-He throws a temper tantrum every time you refuse to take him into Fry's. 
-She has accepted a scholarship to MIT. And she's only five. 
-He gets in fights in school because he owns a PC and the other kids use a Mac. 
-He has defeated the "child-guard" software on your Web browser. 
-Forget Dr. Seuss and Beatrix Potter. She wants you to read her Carl Sagan. 
-When he is asked to play the Star of Bethlehem in the Christmas pageant, he asks, "Am I a white dwarf or red giant?"
+- You buy your child an educational software program, and she asks which authoring tool it was written in. 
+- Your child has torn apart his teddy bear and is studying the chemical composition of the filling. 
+- She can program you VCR, while you haven't been able to get it to stop blinking "12:00." 
+- He has removed the voice box from his Talking Elmo doll and reprogrammed it to recite the periodic table. 
+- She has replaced the arms and legs of her Barbie Doll with bionic limbs. 
+- He is picked last on every sports team. 
+- You take her to see Disney's "Hunchback of Notre Dame," and all she's interested in is the computer animation. 
+- He has Bill Gates posters in his room. 
+- She believes that if she's really good, Santa will give her a client/server network for Christmas. 
+- He throws a temper tantrum every time you refuse to take him into Fry's. 
+- She has accepted a scholarship to MIT. And she's only five. 
+- He gets in fights in school because he owns a PC and the other kids use a Mac. 
+- He has defeated the "child-guard" software on your Web browser. 
+- Forget Dr. Seuss and Beatrix Potter. She wants you to read her Carl Sagan. 
+- When he is asked to play the Star of Bethlehem in the Christmas pageant, he asks, "Am I a white dwarf or red giant?"
 
 
 New Lyrics to Beatles Song - "Yesterday"
@@ -205,7 +208,7 @@ I knew my data was all here to stay,
 Now I believe in yesterday.
 
 
-College Essay
+### College Essay
 
 This was actually an essay written by a college applicant applying to colleges/universities. The author of this essay now attends NYU
 
@@ -227,12 +230,12 @@ I balance, I weave, I dodge, I frolic, and my bills are all paid. On weekends, t
 But I have not yet gone to college.
 
 
-Five Surgeons
+### Five Surgeons
 
 Five surgeons were taking a coffee break and were discussing their work. The first said, "I think accountants are the easiest to operate on. You open them up and everything inside is numbered." The second said, "I think librarians are the easiest to operate on. You open them up and everything inside is in alphabetical order." The Third said, "I like to operate on electricians. You open them up and everything inside is color-coded." The fourth one said, "I like to operate on lawyers. They're heartless, spineless, gutless, and their heads and their butts are interchangeable." Fifth surgeon said, "I like Engineers...they always understand when you have a few parts left over at the end..."
 
 
-The Car
+### The Car
 
 There were three engineers in a car; an electrical engineer, a chemical engineer, and a Microsoft engineer.
 
@@ -244,7 +247,7 @@ The chemical engineer, not knowing much about cars, suggests maybe the fuel is b
 
 The Microsoft engineer, not knowing much about anything, came up with a suggestion. "Why don't we close all the windows, get out, get back in, and open all the windows and see if it works?"
 
-The Balloonist
+### The Balloonist
 
 A man in a hot air balloon realized he was lost. He reduced altitude and spotted a man below. He descended a bit more and shouted, "Excuse me, can you help me? I promised a friend I would meet him half an hour ago, but I don't know where I am."
 

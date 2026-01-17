@@ -1,5 +1,26 @@
- <h1>Georgios Giannakopoulos CEng MIET SMIEEE AdvRITTech MBCS MInstP ARAeS</h1>
-<div id="wsite-content" class="wsite-elements wsite-not-footer">
-	<h2 class="wsite-content-title" style="text-align:left;"><span style="color:rgb(0, 0, 0)"><font size="5">Research Interests</font></span><br /><br /></h2>
-<div class="paragraph" style="text-align:justify;display:block;"><font style="color: rgb(0, 0, 0);" size="3">My MSc thesis had title "Design Multiband Monopole and Microstrip Patch Antennas using High Frequency Structure Simulator". The antennas were designed that can operate at frequency ranges (900 MHz, 1800 MHz) and at 1.3GHz Microstrip Patch Antenna. Then do subsequently build it and compares the theoretical simulation with the experimental simulation using MAPLE software.<br />My final year project as a BEng student was to design, test and build a 1.3GHz Microstrip Patch Antenna for a PAL TV signal. This project was being designed with Ansoft Designer software to design the patch antenna. Then do subsequently build it and compares the theoretical simulation with the experimental simulation using MATLAB and MAPLE software.</font><br /><font style="color: rgb(0, 0, 0);" size="3"><span>Also, </span>I have used extensively the following simulation programs  such as: Ansoft Designer, Ansoft  HFSS, Proteus Professional (ISIS, VSM,  ARES), CADSTAR, SIMULINK, 4nec2, Orcad,  PSPice, CADFEKO, Java Net Beans IDE</font><br /><font style="color: rgb(0, 0, 0);" size="3"><span></span><br />My research interests are:</font><br /><ul style="color: rgb(0, 0, 0);"><li><font size="3">Analogue Electronics</font></li><li><font size="3">Radio Frequency Circuit &amp; System Design</font></li><li><font size="3">Microwave Engineering</font></li><li><font size="3">Mobile Personal and Satellite Communication Systems</font></li><li><font size="3">Communication System Design</font></li><li><font size="3">Wideband channel characterization at HF-UHF</font><br /></li><li><font size="3">Antenna Engineering (e.g. Microstrip Patch Antennas)</font></li><li><font size="3">Computational Electromagnetics and Finite Difference Time-Domain (FDTD)<br /></font></li><li><font size="3">Metamaterials</font></li></ul><font style="color: rgb(0, 0, 0);" size="3"><br />In addition in my research interests are electromagnetic waves and its fundamental limitations, and general Digital Signal Processing aspects in Digital and Wireless Communications.</font><br /><font style="color: rgb(0, 0, 0);" size="3"><br /><span style="text-decoration: underline;">Specialties</span><br /><br />Digital Signal processing (DSP), CDMA, EDGE, UMTS, WCDMA, GPRS, GPS, GSM systems, EMC, Fibre optics, Optical communication, Optoelectronics, Microwave design and technology, PCB design, electronics, Radio design, Radio electronics, Radio link system, Radio technology, RF transmission and technology, Software development, SPICE, simulation programs, Systems design, Telecommunications transmission and technology, Test management</font><br /></div>
-</div>
+ # Georgios Giannakopoulos CEng MIET SMIEEE AdvRITTech MBCS MInstP ARAeS
+ ---
+## Research Interests
+
+My MSc thesis had title "Design Multiband Monopole and Microstrip Patch Antennas using High Frequency Structure Simulator". The antennas were designed that can operate at frequency ranges (900 MHz, 1800 MHz) and at 1.3GHz Microstrip Patch Antenna. Then do subsequently build it and compares the theoretical simulation with the experimental simulation using MAPLE software.
+
+My final year project as a BEng student was to design, test and build a 1.3GHz Microstrip Patch Antenna for a PAL TV signal. This project was being designed with Ansoft Designer software to design the patch antenna. Then do subsequently build it and compares the theoretical simulation with the experimental simulation using MATLAB and MAPLE software.
+
+Also, I have used extensively the following simulation programs such as: Ansoft Designer, Ansoft HFSS, Proteus Professional (ISIS, VSM, ARES), CADSTAR, SIMULINK, 4nec2, Orcad, PSPice, CADFEKO, Java Net Beans IDE
+
+My research interests are:
+- Analogue Electronics
+- Radio Frequency Circuit & System Design
+- Microwave Engineering
+- Mobile Personal and Satellite Communication Systems
+- Communication System Design
+- Wideband channel characterization at HF-UHF
+- Antenna Engineering (e.g. Microstrip Patch Antennas)
+- Computational Electromagnetics and Finite Difference Time-Domain (FDTD)
+- Metamaterials
+
+In addition in my research interests are electromagnetic waves and its fundamental limitations, and general Digital Signal Processing aspects in Digital and Wireless Communications.
+
+### Specialties
+
+Digital Signal processing (DSP), CDMA, EDGE, UMTS, WCDMA, GPRS, GPS, GSM systems, EMC, Fibre optics, Optical communication, Optoelectronics, Microwave design and technology, PCB design, electronics, Radio design, Radio electronics, Radio link system, Radio technology, RF transmission and technology, Software development, SPICE, simulation programs, Systems design, Telecommunications transmission and technology, Test management

@@ -5,7 +5,7 @@ People who work in the fields of science and technology are not like other peopl
 
 Engineering is so trendy these days that everybody wants to be one. The word "engineer" is greatly overused. If there's somebody in your life who you think is trying to pass as an engineer, give him this test to discern the truth.
 
-### Engineer Identification Test
+**Engineer Identification Test**
 
 You walk into a room and notice that a picture is hanging crooked. You...
 
@@ -15,7 +15,7 @@ C. Buy a CAD system and spend the next six months designing a solar-powered, sel
 
 The correct answer is "C" but partial credit can be given to anybody who writes "It depends" in the margin of the test or simply blames the whole stupid thing on "Marketing."
 
-### Social Skills
+**Social Skills**
 Engineers have different objectives when it comes to social interaction.
 
 "Normal" people expect to accomplish several unrealistic things from social interaction:
@@ -28,7 +28,7 @@ In contrast to "normal" people, engineers have rational objectives for social in
 - Avoid getting invited to something unpleasant. 
 - Demonstrate mental superiority and mastery of all subjects. 
 
-### Fascination with Gadgets
+**Fascination with Gadgets**
 
 To the engineer, all matter in the universe can be placed into one of two categories:
 1. Things that need to be fixed
@@ -38,15 +38,15 @@ Engineers like to solve problems. If there are no problems handily available, th
 
 No engineer looks at a television remote control without wondering what it would take to turn it into a stun gun. No engineer can take a shower without wondering if some sort of Teflon coating would make showering unnecessary. To the engineer, the world is a toy box full of sub-optimized and feature-poor toys.
 
-### Fashion & Appearance
+**Fashion & Appearance**
 
 Clothes are the lowest priority for an engineer, assuming the basic thresholds for temperature and decency have been satisfied. If no appendages are freezing or sticking together, and if no genitalia or mammary glands are swinging around in plain view, then the objective of clothing has been met. Anything else is a waste.
 
-### Love of Star Trek
+**Love of Star Trek**
 
 Engineers love all of the "Star Trek" television shows and movies. It's a small wonder, since the engineers on the starship Enterprise are portrayed as heroes, occasionally even having sex with aliens. This is much more glamorous than the real life of an engineer, which consists of hiding from the universe and having sex without the participation of other life forms.
 
-### Dating & Social Life
+**Dating & Social Life**
 
 Dating is never easy for engineers. A normal person will employ various indirect and duplicitous methods to create a false impression of attractiveness. Engineers are incapable of placing appearance above function.
 
@@ -60,7 +60,7 @@ Male engineers reach their peak of sexual attractiveness later than normal men, 
 
 Female engineers become irresistible at the age of consent and remain that way until about thirty minutes after their clinical death. Longer if it's a warm day.
 
-### Honesty
+**Honesty**
 
 Engineers are always honest in matters of technology and human relationships. That's why it's a good idea to keep engineers away from customers, romantic interests, and other people who can't handle the truth.
 
@@ -71,15 +71,15 @@ Engineers sometimes bend the truth to avoid work. They say things that sound lik
 - "I have to have new equipment to do my job." 
 - "I'm not jealous of your new computer." 
 
-### Frugality
+**Frugality**
 
 Engineers are notoriously frugal. This is not because of cheapness or mean spirit; it is simply because every spending situation is simply a problem in optimization, that is, "How can I escape this situation while retaining the greatest amount of cash?"
 
-### Powers of Concentration
+**Powers of Concentration**
 
 If there is one trait that best defines an engineer it is the ability to concentrate on one subject to the complete exclusion of everything else in the environment. This sometimes causes engineers to be pronounced dead prematurely. Some funeral homes in high-tech areas have started checking resumes before processing the bodies. Anybody with a degree in electrical engineering or experience in computer programming is propped up in the lounge for a few days just to see if he or she snaps out of it.
 
-### Risk
+**Risk**
 
 Engineers hate risk. They try to eliminate it whenever they can. This is understandable, given that when an engineer makes one little mistake, the media will treat it like it's a big deal or something.
 
@@ -102,7 +102,7 @@ Being practical people, engineers evaluate this balance of risks and rewards and
 
 If that approach is not sufficient to halt a project, then the engineer will fall back to a second line of defense: "It's technically possible but it will cost too much."
 
-### EGO
+**EGO**
 Ego-wise, two things are important to engineers:
 - How smart they are. 
 - How many cool devices they own. 
@@ -117,7 +117,8 @@ At that point it is a good idea for the normal person to not stand between the e
 
 ---
 
-### Top 20 of Engineering Terminology
+**Top 20 of Engineering Terminology**
+
 1. EXTENSIVE REPORT IS BEING PREPARED ON A FRESH APPROACH TO THE PROBLEM. We just hired three kids fresh out of college.
 2. CLOSE PROJECT COORDINATION. We know who to blame.
 3. MAJOR TECHNOLOGICAL BREAKTHROUGH. It works OK, but looks very hi-tech.
@@ -157,7 +158,7 @@ To a 2-L jacketed round reactor vessel (reactor #1) with an overall heat transfe
 
 ---
 
-### How can you tell if your child is going to be an engineer?
+**How can you tell if your child is going to be an engineer?**
 
 Watch for these tell-tale warning signs:
 - You buy your child an educational software program, and she asks which authoring tool it was written in. 
@@ -177,7 +178,7 @@ Watch for these tell-tale warning signs:
 - When he is asked to play the Star of Bethlehem in the Christmas pageant, he asks, "Am I a white dwarf or red giant?"
 
 ---
-New Lyrics to Beatles Song - "Yesterday"
+**New Lyrics to Beatles Song - "Yesterday"**
 
 Yesterday,
 
@@ -213,7 +214,7 @@ Now I believe in yesterday.
 
 ----
 
-### College Essay
+**College Essay**
 
 This was actually an essay written by a college applicant applying to colleges/universities. The author of this essay now attends NYU
 
@@ -235,12 +236,12 @@ I balance, I weave, I dodge, I frolic, and my bills are all paid. On weekends, t
 But I have not yet gone to college.
 
 ----
-### Five Surgeons
+**Five Surgeons**
 
 Five surgeons were taking a coffee break and were discussing their work. The first said, "I think accountants are the easiest to operate on. You open them up and everything inside is numbered." The second said, "I think librarians are the easiest to operate on. You open them up and everything inside is in alphabetical order." The Third said, "I like to operate on electricians. You open them up and everything inside is color-coded." The fourth one said, "I like to operate on lawyers. They're heartless, spineless, gutless, and their heads and their butts are interchangeable." Fifth surgeon said, "I like Engineers...they always understand when you have a few parts left over at the end..."
 
 
-### The Car
+**The Car**
 
 There were three engineers in a car; an electrical engineer, a chemical engineer, and a Microsoft engineer.
 
@@ -252,7 +253,7 @@ The chemical engineer, not knowing much about cars, suggests maybe the fuel is b
 
 The Microsoft engineer, not knowing much about anything, came up with a suggestion. "Why don't we close all the windows, get out, get back in, and open all the windows and see if it works?"
 
-### The Balloonist
+**The Balloonist**
 
 A man in a hot air balloon realized he was lost. He reduced altitude and spotted a man below. He descended a bit more and shouted, "Excuse me, can you help me? I promised a friend I would meet him half an hour ago, but I don't know where I am."
 

@@ -9,9 +9,9 @@ Engineering is so trendy these days that everybody wants to be one. The word "en
 
 You walk into a room and notice that a picture is hanging crooked. You...
 
-A.   Straighten it. 
-B.   Ignore it. 
-C.   Buy a CAD system and spend the next six months designing a solar-powered, self-adjusting picture frame while often stating aloud your belief that the inventor of the nail was a total moron. 
+A. Straighten it. 
+B. Ignore it. 
+C. Buy a CAD system and spend the next six months designing a solar-powered, self-adjusting picture frame while often stating aloud your belief that the inventor of the nail was a total moron. 
 
 The correct answer is "C" but partial credit can be given to anybody who writes "It depends" in the margin of the test or simply blames the whole stupid thing on "Marketing."
 

@@ -175,7 +175,7 @@ Watch for these tell-tale warning signs:
 
 New Lyrics to Beatles Song - "Yesterday"
 
-Yesterday,
+_Yesterday,
 
 All those backups seemed a waste of pay.
 
@@ -205,7 +205,7 @@ the need for back-ups seemed so far away.
 
 I knew my data was all here to stay,
 
-Now I believe in yesterday.
+Now I believe in yesterday._
 
 
 ### College Essay

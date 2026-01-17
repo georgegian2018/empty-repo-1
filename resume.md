@@ -69,31 +69,31 @@
 (Technologies: HP, WVA, SfB, Cisco TMS, ViCo. Specific software tools such as HPOV, WVA, Infoblox, ViCo and MS Office)
 - Key contribution to the projects: Always exceeding customers’ expectations (European Patent Office)
  
-July 2017 –June 2019 Senior Network Engineer, Vodafone Global Enterprises, Ijmuiden, NL
-Vodafone is a world leader specializing in mobile and fixed networks, multimedia solutions and telecom services. Employed as a Network Engineer responsible for the following:
-Configuring equipment such as Alcatel Lucent switches 6150, 6250, 6450, 6860, 6900
-Troubleshooting as 2nd and 3rd Line Support and Security Incident Handling on TATA Steel’s network
-Designing, developing, configuring and maintaining network services such as IP, DNS, DHCP, IPAM and time as a service
-Assisting and managed Domain Name Service (DNS) for Active Directory (AD) enterprise.
-Assisting and support of internal and external DNS systems.
-Design, implement, test and document Cisco network solutions to include routing and switching
-Maintain accurate diagrams using MS Visio and configurations for all network devices and power equipment
-Prepare engineering job packages consisting of detailed parts / equipment lists, and appropriate documentation (drawings, network diagrams, configurations).
-Utilize IPAM and DNS as required.
-Familiar with Cisco ISE, TACACS+/Radius
-Configuring and supporting enterprise-wide DNS, DHCP, and IP address management (DDI)
-Configured with F5 Load balancers in Failover for Load balancing and SSL handling
-Worked on F5 LTM, GTM series like 6400, 6800, 8800 for the corporate applications and their availability.
-Enterprise network management of TATA Steel by using StableNet provides fault, performance, root cause analysis and network configuration and change management.
-Support of all network changes, IP address management, including DNS and DHCP changes via Infoblox to configure local and external DNS and DHCP
-Making changes to the live network by installing new switches on the TATA Steel premises
-Managing network devices including wireless access points, wireless repeater and backbone (optical fiber).
-Managing Palo Alto and Check Point firewalls
+**July 2017 –June 2019 Senior Network Engineer, Vodafone Global Enterprises,** Ijmuiden, NL
+**Vodafone** is a world leader specializing in mobile and fixed networks, multimedia solutions and telecom services. Employed as a Network Engineer responsible for the following:
+- Configuring equipment such as Alcatel Lucent switches 6150, 6250, 6450, 6860, 6900
+- Troubleshooting as 2nd and 3rd Line Support and Security Incident Handling on TATA Steel’s network
+- Designing, developing, configuring and maintaining network services such as IP, DNS, DHCP, IPAM and time as a service
+- Assisting and managed Domain Name Service (DNS) for Active Directory (AD) enterprise.
+- Assisting and support of internal and external DNS systems.
+- Design, implement, test and document Cisco network solutions to include routing and switching
+- Maintain accurate diagrams using MS Visio and configurations for all network devices and power equipment
+- Prepare engineering job packages consisting of detailed parts / equipment lists, and appropriate documentation (drawings, network diagrams, configurations).
+- Utilize IPAM and DNS as required.
+- Familiar with Cisco ISE, TACACS+/Radius
+- Configuring and supporting enterprise-wide DNS, DHCP, and IP address management (DDI)
+- Configured with F5 Load balancers in Failover for Load balancing and SSL handling
+- Worked on F5 LTM, GTM series like 6400, 6800, 8800 for the corporate applications and their availability.
+- Enterprise network management of TATA Steel by using StableNet provides fault, performance, root cause analysis and network configuration and change management.
+- Support of all network changes, IP address management, including DNS and DHCP changes via Infoblox to configure local and external DNS and DHCP
+- Making changes to the live network by installing new switches on the TATA Steel premises
+- Managing network devices including wireless access points, wireless repeater and backbone (optical fiber).
+- Managing Palo Alto and Check Point firewalls
 (Technologies: Cisco/Juniper/Alcatel-Lucent/Palo Alto/Riverbeds/ Rebasoft Auditor Core/Check Point. Specific software tools such as StableNet, Remedy, ServiceNOW, RAVI, and MS Office)
-Key contribution to the projects: Always exceeding customers’ expectations (TATA Steel)
+- Key contribution to the projects: Always exceeding customers’ expectations (TATA Steel)
  
-July 2015 – September 2015 Radio Network Optimization Engineer, Huawei, Zurich, CH
-Huawei is a world leader specializing in mobile and fixed networks, multimedia solutions and telecom services. Employed as a Drive Test and Optimization Engineer responsible for the following:
+**July 2015 – September 2015 Radio Network Optimization Engineer, Huawei,** Zurich, CH
+**Huawei** is a world leader specializing in mobile and fixed networks, multimedia solutions and telecom services. Employed as a Drive Test and Optimization Engineer responsible for the following:
 Performing the drive tests in accordance to the schedule and instructions.
 Performing the drive tests and submitted the measurement data for post-processing within pre-determined timeframe for Swiss operator Sunrise 2G/GSM/ 3G/UMTS/4G/LTE Mobile Networks using Genex Probe.
 Performing drive-test and walk-test (if necessary) according to the pre-defined route, planned route (if given) or at a specified area/time-window.
@@ -105,8 +105,8 @@ Submitting the measurement data and acceptance report to within the pre-defined 
 (Technologies: Huawei, 2G/GSM/ 3G/UMTS/4G/LTE. Specific software tools such as MS Office, Genex Probe)
 Key contribution to the projects: Always exceeding customers’ expectations (Sunrise)
  
-August 2014 – October 2014 Senior Network Engineer, Delta N.V., Vlissingen, NL
-Delta is a leading provider of energy, infrastructure and environmental services and digital services such as internet, telephone, radio and TV signals. In Zeeland homes occupies a large part of the household goods and services from the multi-utility company. Employed as a Senior Network Engineer responsible for the following:
+**August 2014 – October 2014 Senior Network Engineer, Delta N.V.,** Vlissingen, NL
+**Delta** is a leading provider of energy, infrastructure and environmental services and digital services such as internet, telephone, radio and TV signals. In Zeeland homes occupies a large part of the household goods and services from the multi-utility company. Employed as a Senior Network Engineer responsible for the following:
 Configuring equipment such as Cisco, Juniper, Alcatel-Lucent (including 7750 Service-Router-Mobile Gateway), Arris (CMTS)
 Supporting the third line operations and proving solutions to the company’s customer’s projects, working with several technologies (Juniper and Cisco).
 Supporting the Cisco specialists by helping them to install routers, firewalls, switches to the client’s premises
@@ -122,8 +122,8 @@ Working with lead consultants to identify gaps and writing up outline specificat
 (Technologies: Cisco/Juniper/Alcatel-Lucent/Euro DOCSIS, Arris (CMTSs), Navision, Check Point. Specific software tools such as Citrix, MS Office)
 Key contribution to the projects: Responsible for the design of the Euro DOCSIS, HFC and the configuration of the CMTSs. Always exceeding the local customer’s expectations (home and businesses)
  
-July 2013 – February 2014 Radio Network Optimization Engineer, Omnitele B.V., The Hague, NL
-Omnitele is a leading provider of Technology Strategy, Network Design and Network Quality. Employed to implement and support a number of technologies including:
+**July 2013 – February 2014 Radio Network Optimization Engineer, Omnitele B.V.,** The Hague, NL
+**Omnitele** is a leading provider of Technology Strategy, Network Design and Network Quality. Employed to implement and support a number of technologies including:
 RF Planning and Optimization for Dutch operator KPN 2G/GSM/ 3G/UMTS/4G/LTE Mobile Networks using Asset
 Running simulating coverage plots for present and projected situations using Asset
 Dealing with Knelpunten cases from KPN databases providing optimization solutions to KPN NL
@@ -136,8 +136,9 @@ Supporting customers, internal teams and sub-contractor teams for Spectrum clear
 Responsible for maintaining inventory, providing tools and soft keys to internal and sub-contractor teams.
 (Technologies: Ericsson, 2G/GSM/ 3G/UMTS/4G/LTE/WiMAX/wifi. Specific software tools such as MS Office, Asset, NeMo Analyze, NeMo Outdoor, NQDI (internal database), PRIME, Awacs, Cellsens)
 Key contribution to the projects: Always exceeding customers’ expectations (KPN)
-January 2012 – June 2013 Radio (RF) Planning Engineer, Ericsson Network Services B.V., Stein, NL
-Ericsson is a world leader specializing in mobile and fixed networks, multimedia solutions and telecom services. Employed as a Radio (RF) Engineer responsible for the following:
+
+**January 2012 – June 2013 Radio (RF) Planning Engineer, Ericsson Network Services B.V.,** Stein, NL
+**Ericsson** is a world leader specializing in mobile and fixed networks, multimedia solutions and telecom services. Employed as a Radio (RF) Engineer responsible for the following:
 Upgrading the mobile telecom network for Dutch operator VODAFONE, from an RF (radio frequency) planner perspective for 2G/3G/4G (LTE)
 RF Planning and Optimization for 2G/GSM/ 3G/UMTS/4G/LTE Mobile Networks using Atoll to creating candidates
 Running simulating coverage plots for present and projected situations
@@ -149,8 +150,8 @@ Checking of site drawings and approvals. This also entails audits on some site d
 (Technologies: 2G/GSM/ 3G/UMTS/4G/LTE. Specific software tools such as MS Office, Atoll, WebGIS, TEMS, Maximo (internal database), MyNetworkPortal)
 Key contribution to the projects: Always first time right in Technical Site Survey (TSS) visits for final site configuration and design (HIT) and Site Shares and Courtesies (Vodafone)
  
-November 2011 – December 2011 Technical Administrator, Schlumberger (temp), The Hague, NL
-Schlumberger is the world's largest oilfield services company. My role as a technical administrator required me to be responsible for the following:
+**November 2011 – December 2011 Technical Administrator, Schlumberger (temp),** The Hague, NL
+**Schlumberger** is the world's largest oilfield services company. My role as a technical administrator required me to be responsible for the following:
 Administration and data maintenance of Microsoft Business Solutions - Navision
 Testing database performance and new system functionalities.
 Batch processing of High-Volume Billings.
@@ -158,15 +159,16 @@ Data preparation and analysis using Excel and Access
 Data analysis and presentation of large and complex data in Excel
 (Software: MS Windows, MS Office)
  
-February 2010 – February 2011 Electronic Network Engineer, Hellenic Navy, Chios, GR
-The Hellenic Navy (HN) is the naval force of Greece, part of the Greek Armed Forces. As part of my military compliance, I was required to carry out the following tasks:
+**February 2010 – February 2011 Electronic Network Engineer, Hellenic Navy,** Chios, GR
+**The Hellenic Navy (HN)** is the naval force of Greece, part of the Greek Armed Forces. As part of my military compliance, I was required to carry out the following tasks:
 Specialization as an Electronic Engineer of IT, operating military, maritime and surveillance security systems.
 Assistant for secretarial and administration support of the above-mentioned Naval Station.
 Designed and developed the LAN of the Station, providing simultaneously maintenance to the relevant pc’s, laptops, and peripherals of the whole system.
 (Software: MS Windows, MS Office, LAN, WAN)
 Key contribution to the projects: I voluntarily delivered a state-of-the-art LAN/WAN using my knowledge and experience beyond the call of duty
-October 2008 – September 2009 RF Design Engineer, Cooper Security, Gloucester, UK
-Cooper Security is one of the world’s leading manufacturers of security equipment for all types of commercial and domestic use. Employed as a RF Engineer responsible for the following:
+
+**October 2008 – September 2009 RF Design Engineer, Cooper Security,** Gloucester, UK
+**Cooper Security** is one of the world’s leading manufacturers of security equipment for all types of commercial and domestic use. Employed as a RF Engineer responsible for the following:
 Member of the R&D Team (Research and Development)
 Making research for new designs, products and developments (using handmade antennas) alarm circuits using Ansoft Designer v2.1, CADSTAR version 9 (editor and viewer)
 Re-designed and repairing (fault finding) existing products, using spectrum and network analyzers of 1 GHz maximum
@@ -175,21 +177,24 @@ Dealing with range tests, which were made in the fields. The purpose of these te
 Operation of an anechoic chamber, GHz Transverse Electromagnetic (GTEM) for EMC/EMI and immunity tests
 (Software: MS Windows, MS Office, Ansoft Designer, CADFEKO, CADSTAR, 4nec2)
 Key contribution to the projects: Delivering impeccable drawings and designs
-May 2005 - July 2005 System Support Engineer, txtNation S.A. Plymouth, Devon, UK (Summer intern)
+
+**May 2005 - July 2005 System Support Engineer, txtNation S.A.,** Plymouth, Devon, UK (Summer intern)
 Developer of C/C++/Java programming
 Supporting Windows and Unix/Linux operating systems
 Use of ASP, Visual Studio and .NET 2005 software platforms, HTML, Dreamweaver, and databases for data entries
 Database support (Oracle, MySQL, PostgreSQL)
-July 2001 - August 2001 Systems and Applications Software Engineer, Prologic S.A. Athens, GR (Summer intern)
+
+**July 2001 - August 2001 Systems and Applications Software Engineer, Prologic S.A.,** Athens, GR (Summer intern)
 Member of the technical department for various systems and applications software developments
 Web server administration (APACHE)
 Supporting Windows and Unix operating systems
 Unix/Windows server installation and configuration
-July 2000 - August 2000 Electronic Publications and Applications Software Engineer, Infodomi S.A Athens, GR (Summer intern)
+
+**July 2000 - August 2000 Electronic Publications and Applications Software Engineer, Infodomi S.A.,** Athens, GR (Summer intern)
 Assistant for secretarial and administration support in the company
 Member of the department for electronic publications from various applications software developments
 
-Education
+### Education
 2007 – 2008           University of Plymouth, UK M.Sc., Communication Engineering and Signal Processing
 Thesis Title: “Design of a Multiband Monopole (Wrapped (3D) and Unwrapped (2D)) and Microstrip Patch Antennas for GSM and DCS frequency bands using HFSS and MAPLE software packages”
 2004 – 2007             University of Plymouth, UK B.Eng., (Hons) Communication Engineering
@@ -200,13 +205,13 @@ Study projects included novel algorithms development for power reduction in mode
 Thesis Title: “Implementation of a Web store for electrical materials, using Microsoft FrontPage 2000, Microsoft Access 2000 and Internet Information Server”. Other projects included C/C++/Java programming.
 
 
-Publications
+### Publications
 G. Giannakopoulos, “Low Power Modem Design”, Published by LAP Lambert Publishers, 2015, ISBN 978-3-659-75025-0
 G. Giannakopoulos, “Design a 1.3 GHz Microstrip Patch Antenna for a PAL TV signal”, Published by LAP Lambert Publishers, 2014, ISBN 978-3-659-63108-5
 G. Giannakopoulos, “Multiband Monopole and a Microstrip Patch Antennas for GSM and DCS frequency bands”, Published by LAP Lambert Publishers, 2011, ISBN: 978-3-8465-3951-4
 ​
 
-Professional Memberships
+### Professional Memberships
 Affiliate Member of the Royal Aeronautical Society (AfMRAeS) (September 2023 – present)
 Senior Member (SMIEEEE) - Institute of Electrical and Electronic Engineers (IEEE) (April 2023 - present)
 Member of the British Computer Society (MBCS) (March 2022 – present)
@@ -216,7 +221,7 @@ Member of the Institute of Electrical and Electronic Engineers (MIEEE) (Septembe
 Member of the Institute of Engineering and Technology (MIET) (September 2002 – present)
 
 
-Training, Certifications and Awards 
+### Training, Certifications and Awards 
 How to Deploy VLANs with VMware ESXi 6.5, OVHcloud, February 7, 2023
 Ultimate AWS Certified Cloud Practitioner - 2023, Udemy, January 8, 2023, Stephane Maarek
 Building F5 BIG-IP Lab for Free - VMware Workstation, Udemy, December 12, 2022, Dean Armada
@@ -276,12 +281,12 @@ VOL-VCA, Plusport B.V., Certification License No: 1136973.05536297, 10 December 
 Foundation License, Office for Communications (OFCOM), December 2004
 European Computer Driving License (ECDL), July 2003
  
-Language Skills
+### Language Skills
 Greek: Excellent (mother tongue) (C2)
 English: Very good (fluent) (C2)
 Dutch: Intermediate (A2)
 
-Personal Achievements
+### Personal Achievements
 Senior Member (SMIEEEE) - Institute of Electrical and Electronic Engineers (IEEE) 
 Chartered Engineer (CEng) - Institution of Engineering and Technology (IET)
 Project Leader in many group projects during graduate and undergraduate coursework modules

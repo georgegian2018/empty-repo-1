@@ -1,7 +1,7 @@
 # This is my personal website
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
-![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
+![Format](https://img.shields.io/badge/Format-HTML-blue.svg)
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)

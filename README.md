@@ -68,7 +68,7 @@ engineering-documentation-wiki/
 ├── References/
 │   └── Books_and_Papers.md
 │
-└── Templates/
+├── Templates/
 │    ├── Tutorial_Template.md
 │    └── Documentation_Template.md
 │

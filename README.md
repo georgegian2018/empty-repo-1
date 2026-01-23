@@ -10,6 +10,15 @@
 ![Release](https://img.shields.io/github/v/release/<your-username>/engineering-documentation-wiki)
 
 
+
+## About This Repository
+
+This repository provides formal engineering documentation.
+For explanatory articles and conceptual understanding, see:
+
+➡️ Technical Knowledge Base  
+https://github.com/georgegian2018/technical-knowledge-base
+
 This repository provides **structured engineering documentation and procedural tutorials**
 for technical, academic, and professional use.
 
@@ -107,13 +116,6 @@ engineering-documentation-wiki/
 
 ```
 
-## About This Repository
-
-This repository provides formal engineering documentation.
-For explanatory articles and conceptual understanding, see:
-
-➡️ Technical Knowledge Base  
-https://github.com/<your-username>/technical-knowledge-base
 
 
 

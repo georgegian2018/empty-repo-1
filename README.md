@@ -107,6 +107,15 @@ engineering-documentation-wiki/
 
 ```
 
+## About This Repository
+
+This repository provides formal engineering documentation.
+For explanatory articles and conceptual understanding, see:
+
+➡️ Technical Knowledge Base  
+https://github.com/<your-username>/technical-knowledge-base
+
+
 
 
 # 📜 License

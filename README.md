@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Maintained-brightgreen)
 ![Audience](https://img.shields.io/badge/Audience-Engineers%20%26%20Researchers-lightgrey)
 ![License](https://img.shields.io/badge/License-CC--BY--4.0-yellowgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Release](https://img.shields.io/github/v/release/<your-username>/engineering-documentation-wiki)
 
 
 This repository provides **structured engineering documentation and procedural tutorials**

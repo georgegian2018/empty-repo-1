@@ -1,5 +1,13 @@
 # Engineering Documentation Wiki
 
+![Docs](https://img.shields.io/badge/Type-Engineering%20Documentation-blue)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+![Exports](https://img.shields.io/badge/Exports-PDF%20%7C%20Word-success)
+![Status](https://img.shields.io/badge/Status-Maintained-brightgreen)
+![Audience](https://img.shields.io/badge/Audience-Engineers%20%26%20Researchers-lightgrey)
+![License](https://img.shields.io/badge/License-CC--BY--4.0-yellowgreen)
+
+
 This repository provides **structured engineering documentation and procedural tutorials**
 for technical, academic, and professional use.
 

@@ -72,6 +72,28 @@ engineering-documentation-wiki/
     ├── Tutorial_Template.md
     └── Documentation_Template.md
 
+```
+
+```text
+engineering-documentation-wiki/
+│
+├── README.md
+├── Home.md
+├── Start_Here.md
+│
+├── Fundamentals/
+├── Tutorials/
+├── Tools/
+├── Standards/
+├── References/
+├── Templates/
+│
+├── exports/
+│   ├── pdf/
+│   ├── word/
+│   └── markdown/
+│
+└── LICENSE
 
 ```
 
